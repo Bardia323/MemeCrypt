@@ -15,18 +15,19 @@ Memes serve as modern units of cultural transmission, often embedding nuanced me
 ## 2. Mathematical Framework
 
 ### 2.1. Key Components
+Start of Selection
 
-- **Message Space (\( \mathcal{M} \))**: Set of all possible messages a meme can convey.
-- **Key Space (\( \mathcal{K} \))**: Shared knowledge or context required to interpret a meme.
-- **Ciphertext Space (\( \mathcal{C} \))**: Set of all possible memes encoding messages.
-- **Encryption Function (\( E \))**: \( E: \mathcal{M} \times \mathcal{K} \rightarrow \mathcal{C} \)
-- **Decryption Function (\( D \))**: \( D: \mathcal{C} \times \mathcal{K} \rightarrow \mathcal{M} \)
+- **Message Space (M)**: Set of all possible messages a meme can convey.
+- **Key Space (K)**: Shared knowledge or context required to interpret a meme.
+- **Ciphertext Space (C)**: Set of all possible memes encoding messages.
+- **Encryption Function (E)**: E: M × K → C
+- **Decryption Function (D)**: D: C × K → M
 
 ### 2.2. Properties
 
-- **Correctness**: \( D(E(m, k), k) = m \) for all \( m \in \mathcal{M} \), \( k \in \mathcal{K} \).
-- **Security**: Depends on the secrecy and complexity of \( k \). Widely known keys reduce security.
-- **Confidentiality**: Achieved through the obscurity of \( k \), akin to steganography.
+- **Correctness**: D(E(m, k), k) = m for all m in M, k in K.
+- **Security**: Depends on the secrecy and complexity of k. Widely known keys reduce security.
+- **Confidentiality**: Achieved through the obscurity of k, akin to steganography.
 
 ---
 
@@ -37,21 +38,22 @@ Memes serve as modern units of cultural transmission, often embedding nuanced me
 Utilizing LLMs to automate meme creation involves generating a key and selecting an appropriate template based on the input message. This process ensures that the meme encodes the desired message securely within the chosen context.
 
 ### 3.2. Steps
+# Start of Selection
 
-1. **Input Message (\( m \))**: User provides the underlying idea or joke.
-2. **Key Generation (\( k \))**:
-   - **LLM Analysis**: Identifies relevant contexts or shared knowledge related to \( m \).
+1. **Input Message (m)**: User provides the underlying idea or joke.
+2. **Key Generation (k)**:
+   - **LLM Analysis**: Identifies relevant contexts or shared knowledge related to m.
    - **Selection**: Chooses a key with adequate specificity and entropy.
 3. **Template Selection**:
-   - **LLM Recommendation**: Suggests meme templates aligning with \( m \) and \( k \).
+   - **LLM Recommendation**: Suggests meme templates aligning with m and k.
    - **Database Query**: Selects from a repository of templates tagged with relevant metadata.
 4. **Content Generation**:
-   - **Caption Creation**: LLM generates text that embeds \( m \) within \( k \)'s context.
+   - **Caption Creation**: LLM generates text that embeds m within k's context.
    - **Visual Adjustment**: Modifies the template to incorporate key elements.
 5. **Meme Assembly**:
    - Combines selected template with generated captions and visuals.
 6. **Validation**:
-   - Ensures the meme conveys \( m \) to those with \( k \) while remaining ambiguous otherwise.
+   - Ensures the meme conveys m to those with k while remaining ambiguous otherwise.
 7. **Distribution**:
    - Shares the meme within the intended audience, maintaining key secrecy.
 
@@ -59,7 +61,7 @@ Utilizing LLMs to automate meme creation involves generating a key and selecting
 
 **Message**: "Final exams are overwhelming this semester."
 
-1. **Key (\( k \))**: Shared student experiences with exams.
+1. **Key (k)**: Shared student experiences with exams.
 2. **Template**: "This Is Fine" dog meme.
 3. **Caption**:
    - **Top**: Original image of the dog in a burning room.
