@@ -1,11 +1,11 @@
-# 🌀 MemeCryptor 🌀
+# 🌀 MemeCrypt 🌀
 
 **Memes as Cryptography**
 
 ---
 
 ![MemeCryptor Showcase](for_cherished_gangster.png)
-(meme assembled in dingboard.com)
+(meme assembled in http://www.dingboard.com)
 
 ---
 
@@ -15,7 +15,7 @@ Memes aren’t just for humor—they're a form of **encryption**. Every meme car
 
 For a deeper dive into this theory, check out the [attached paper](paper.md).
 
-## 🚀 MemeCryptor: Encrypting Messages in Memes
+## 🚀 MemeCrypt: Encrypting Messages in Memes
 
 MemeCryptor takes this concept further by automating the **cryptographic potential of memes** using AI. With MemeCryptor, you can convert your messages into memes, embedding hidden meanings that only specific audiences can decode.
 
@@ -30,7 +30,7 @@ MemeCryptor takes this concept further by automating the **cryptographic potenti
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/memecryptor.git
+    git clone https://github.com/bardia323/Meme-crypt.git
     cd memecryptor
     ```
 
@@ -71,7 +71,7 @@ MemeCryptor takes this concept further by automating the **cryptographic potenti
 
 *Your secret message, now an encrypted meme!*
 
-## 🧠 How MemeCryptor Works
+## 🧠 How MemeCrypt Works
 
 1. **Message Input**: You provide the message you want to encrypt.
 2. **Contextual Key Generation**: GPT-4 generates a cryptographic key based on contextual cues from your message.
