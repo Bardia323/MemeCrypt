@@ -50,7 +50,7 @@ Utilizing LLMs to automate meme creation involves generating a key and selecting
 4. **Content Generation**:
    - **Caption Creation**: LLM generates text that embeds m within k's context.
    - **Visual Adjustment**: Modifies the template to incorporate key elements.
-5. **Meme Assembly**:
+5. **Meme Assembly (currently manual/unimplemented)**:
    - Combines selected template with generated captions and visuals.
 6. **Validation**:
    - Ensures the meme conveys m to those with k while remaining ambiguous otherwise.
