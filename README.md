@@ -33,7 +33,7 @@ MemeCryptor takes this concept further by automating the **cryptographic potenti
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/bardia323/Meme-crypt.git
+    git clone https://github.com/bardia323/MemeCrypt.git
     cd memecryptor
     ```
 
