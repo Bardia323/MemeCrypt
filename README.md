@@ -13,14 +13,14 @@ For a deeper dive into this theory, check out the [attached paper](paper.md).
 
 ---
 
-![MemeCryptor Showcase](for_cherished_gangster.png)
+![MemeCrypt Showcase](for_cherished_gangster.png)
 (meme assembled in http://www.dingboard.com)
 
 ---
 
 ## 🚀 MemeCrypt: Encrypting Messages in Memes
 
-MemeCryptor takes this concept further by automating the **cryptographic potential of memes** using AI. With MemeCryptor, you can convert your messages into memes, embedding hidden meanings that only specific audiences can decode.
+MemeCrypt takes this concept further by automating the **cryptographic potential of memes** using AI. With MemeCrypt, you can convert your messages into memes, embedding hidden meanings that only specific audiences can decode.
 
 ### 🔑 Features:
 
