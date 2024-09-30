@@ -13,7 +13,7 @@ For a deeper dive into this theory, check out the [attached paper](paper.md).
 
 ---
 
-![MemeCrypt Showcase](for_cherished_gangster.png)
+<img src="for_cherished_gangster.png" alt="MemeCrypt Showcase" width="300"/>
 (meme assembled in http://www.dingboard.com)
 
 ---
