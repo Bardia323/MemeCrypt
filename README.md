@@ -1,7 +1,8 @@
 # 🌀 MemeCrypt 🌀
 
 **Memes as Cryptography**
-MemeCryptor is a Python tool that transforms your messages into cryptic, context-rich memes using the magic of LLMs (currently only gpt-4o-mini).
+
+MemeCrypt is a Python tool that transforms your messages into cryptic, context-rich memes using the magic of LLMs (currently only gpt-4o-mini).
 
 
 ## 📚 The Theory: Memes Are Encryption
