@@ -34,7 +34,7 @@ MemeCrypt takes this concept further by automating the **cryptographic potential
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/bardia323/MemeCrypt.git
-    cd memecryptor
+    cd MemeCrypt
     ```
 
 2. **Install Dependencies**
@@ -56,7 +56,7 @@ MemeCrypt takes this concept further by automating the **cryptographic potential
 
 1. **Run the Meme Generator**
     ```bash
-    python meme_generator.py
+    python meme-crypt.py
     ```
 
 2. **Input Your Message**
