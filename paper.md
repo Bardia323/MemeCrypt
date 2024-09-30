@@ -29,9 +29,6 @@ Start of Selection
 - **Security**: Depends on the secrecy and complexity of k. Widely known keys reduce security.
 - **Confidentiality**: Achieved through the obscurity of k, akin to steganography.
 
-End of Selection
-```
-
 ---
 
 ## 3. Meme Generation Technique with LLMs
@@ -65,9 +62,6 @@ Utilizing LLMs to automate meme creation involves generating a key and selecting
 **Message**: "Final exams are overwhelming this semester."
 
 1. **Key (k)**: Shared student experiences with exams.
-
-# End of Selection
-```
 2. **Template**: "This Is Fine" dog meme.
 3. **Caption**:
    - **Top**: Original image of the dog in a burning room.
