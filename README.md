@@ -7,7 +7,7 @@ MemeCrypt is a Python tool that transforms your messages into cryptic, context-r
 
 ## 📚 The Theory: Memes Are Encryption
 
-Memes aren’t just for humor—they're a form of **encryption**. Every meme carries **contextual keys**—cultural, social, or personal—understood by those in the know. When you share a meme, you're encoding information within a visual and textual format, and only those with the right **contextual entropy** can fully decode its meaning. This aligns with the core ideas of **information theory**, where shared context between sender and receiver determines how much information can be conveyed.
+Memes aren’t just for humor—they're a form of **encryption**. Every meme carries **contextual keys**; cultural, social, or personal; understood by those in the know. When you share a meme, you're encoding information within a visual and textual format, and only those with the right **contextual entropy** can fully decode its meaning. This aligns with the core ideas of **information theory**, where shared context between sender and receiver determines how much information can be conveyed.
 
 For a deeper dive into this theory, check out the [attached paper](paper.md).
 
